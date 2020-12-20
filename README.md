@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning HTML5, CSS3, Javascript, Node, React, Python.
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=UchoaBre)](https://github.com/anuraghazra/github-readme-stats)
+
